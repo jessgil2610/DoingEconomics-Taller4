@@ -37,6 +37,7 @@ DoingEconomics-Taller4/
 |   |── Taller4_DoingEconomics.do         # Script principal de Stata
 |
 ├── Taller_4_Experimentos.docx             # Documento con respuestas del taller
+├── Presentación Limitaciones Experimentos  # Presentación limitaciones experimentos
 └── README.md                              
 ```
 ---
