@@ -34,7 +34,7 @@ DoingEconomics-Taller4/
 │   ├── Tabla_descriptiva_completa.xlsx    # Tabla estadísticas descriptivas completa
 │
 ├── Scripts/
-|    |── Taller4_DoingEconomics.do         # Script principal de Stata
+|   |── Taller4_DoingEconomics.do         # Script principal de Stata
 |
 ├── Taller_4_Experimentos.docx             # Documento con respuestas del taller
 └── README.md                              
